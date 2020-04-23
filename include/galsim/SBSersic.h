@@ -40,7 +40,7 @@ namespace galsim {
         const double maximum_sersic_n = 6.2;
 
         // How many Sersic profiles to save in the cache
-        const int max_sersic_cache = 100;
+        const int max_sersic_cache = 1000;
 
     }
 
